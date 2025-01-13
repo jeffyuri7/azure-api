@@ -1,25 +1,13 @@
-<<<<<<< HEAD
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Laboratório do Azure DIO
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+## Deploy de APIs no Azure
+Esse laboratório faz parte do bootcamp DIO AZ-204. Aqui estamos implementando uma API no Azure utilizando o AzureDevops, pipelines e mais ferramentas de CI. Abaixo estão algumas imagens da implementação do projeto.
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+## Criação dos Recursos no Azure
+![image](https://github.com/user-attachments/assets/60d9bc87-50aa-4c53-ab36-a531ae33d337)
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+## Criação do Projeto e do Pipeline no AzureDevops
+![image](https://github.com/user-attachments/assets/ea2af4d5-ff3d-4618-afd8-95a550543153)
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
-=======
-# azure-api
-Contém os dados do laboratório da DIO
->>>>>>> a4c4b0cf752cf13529409be94f5080477359956c
+## Repositório do Projeto no AzureDevops
+![image](https://github.com/user-attachments/assets/86ce2dca-aa03-4e7d-b1d6-1b72ecfbbeb1)
